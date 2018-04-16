@@ -1,0 +1,1 @@
+/Users/leop0ld/.config/nvim/init.vim
