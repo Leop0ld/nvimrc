@@ -13,7 +13,6 @@ Plug 'vim-airline/vim-airline'
     let g:airline_theme = 'hybrid'
 
 Plug 'kristijanhusak/vim-hybrid-material'
-Plug 'ryanoasis/vim-devicons'
 
 Plug 'airblade/vim-gitgutter'
 Plug 'tpope/vim-fugitive'
